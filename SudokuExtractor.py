@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2021/4/17 9:25
-# @Author  : YangXiao
-# @Project : 图片处理 + 数独提取
-# @Software: PyCharm
-
 import os
 import cv2
 import operator
