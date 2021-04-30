@@ -1,4 +1,5 @@
 import os
+import cv2
 from SudokuExtractor import extract_sudoku
 from SudokuSolver import solve
 from NumberExtractor import extract_number, display_sudoku
@@ -16,3 +17,7 @@ for file in files:
         display_sudoku(result)
     else:
         print("No Solution!")
+
+    cv2.imshow("image", image)
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
