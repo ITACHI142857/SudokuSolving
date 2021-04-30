@@ -2,7 +2,7 @@
 1. Usage
 * Download all files and run Main.py
 
-** Prerequisites **
+**Prerequisites**
 * Python
 * OpenCV
 * keras
