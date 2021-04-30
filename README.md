@@ -1,3 +1,8 @@
 # Sudoku-Solving
-*download all files and run Main.py
-** Prerequisites**
+1. Usage
+* Download all files and run Main.py
+
+** Prerequisites **
+* Python
+* OpenCV
+* keras
