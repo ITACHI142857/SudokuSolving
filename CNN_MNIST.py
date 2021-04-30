@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2021/4/25 20:01
-# @Author  : YangXiao
-# @Project : MNIST 数据集训练模型并保存
-# @Software: PyCharm
-
 import numpy
 from keras.datasets import mnist
 from keras.models import Sequential
