@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2021/4/27 20:01
-# @Author  : YangXiao
-# @Project : 主程序
-# @Software: PyCharm
-
 import os
 from SudokuExtractor import extract_sudoku
 from SudokuSolver import solve
