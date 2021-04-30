@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2021/4/25 15:51
-# @Author  : YangXiao
-# @Project : 提取数字并识别
-# @Software: PyCharm
-
-
 from SudokuExtractor import extract_sudoku
 import cv2
 import numpy as np
