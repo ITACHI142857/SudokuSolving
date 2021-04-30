@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2021/4/26 14:13
-# @Author  : YangXiao
-# @Project : 读取 MNIST 数据集的训练模型，然后使用本地数据集继续训练模型，并保存
-# @Software: PyCharm
-
 from sklearn.model_selection import train_test_split
 from imutils import paths
 import random
