@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2021/4/26 19:55
-# @Author  : YangXiao
-# @Project : 解数独
-# @Software: PyCharm
-
 import numpy as np
 
 
