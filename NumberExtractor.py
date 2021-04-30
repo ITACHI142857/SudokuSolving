@@ -81,11 +81,11 @@ def display_sudoku(sudoku):
     output("\n")
 
 
-# 读图
-filePath = ".\\imgs\\"
-files = os.listdir(filePath)
-for file in files:
-    path = filePath + file
-    image = extract_sudoku(path)
-    result = extract_number(image)
-    display_sudoku(result)
+# # 读图
+# filePath = ".\\imgs\\"
+# files = os.listdir(filePath)
+# for file in files:
+#     path = filePath + file
+#     image = extract_sudoku(path)
+#     result = extract_number(image)
+#     display_sudoku(result)
